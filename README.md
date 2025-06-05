@@ -1,2 +1,2 @@
 # PopyTablet
-Tablet policial creada con flet
+Tablet policial creada con Flet.
